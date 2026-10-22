@@ -1,0 +1,15 @@
+{
+  "requestTimeoutMs": 20000,
+  "workbuddy": {
+    "enabled": true,
+    "appExe": "",
+    "authFile": "",
+    "billingBase": "https://www.codebuddy.cn",
+    "chatBase": "https://copilot.tencent.com"
+  },
+  "travel": {
+    "autoDepart": true,
+    "locationId": null,
+    "locationCode": ""
+  }
+}
